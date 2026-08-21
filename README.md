@@ -14,7 +14,7 @@ These artifacts are **reference implementations** — not ready-to-deploy artefa
 
 1. **Adapt** to their workload requirements.
 2. **Validate** via BIT CI/CD gates (lint, policy checks, security scans).
-3. **Comply** with [BIT IT Standards](https://confluence.bit.admin.ch/display/ITS/IT+Standards) (internal) and platform policies.
+3. **Comply** with BIT IT Standards (internal) and platform policies.
 
 ## Governance
 
@@ -23,4 +23,4 @@ All artefacts deployed on BIT platforms must pass the **BIT DevSecOps Pipeline G
 ---
 
 **Maintained by:** BIT Platform Services  
-**Reference:** [BIT IT Standards & Guidelines](https://confluence.bit.admin.ch/display/ITS/IT+Standards) (internal)
+**Reference:** BIT IT Standards & Guidelines (internal)
