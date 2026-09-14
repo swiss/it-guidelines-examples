@@ -18,7 +18,7 @@ These artifacts are **reference implementations** — not ready-to-deploy artefa
 
 ## Governance
 
-All artefacts deployed on BIT platforms must pass the **BIT DevSecOps Pipeline Gates** (SAST, SCA, container scan, policy checks, IaC validation).
+All artefacts deployed on BIT platforms must pass the **BIT DevSecOps Pipeline Gates** (SAST, SCA, container scan, policy checks).
 
 ---
 
